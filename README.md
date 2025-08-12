@@ -102,4 +102,4 @@ A modern frontend application designed to work seamlessly with serverless backen
 
 ## License
 
-MIT
+Apache 2.0
